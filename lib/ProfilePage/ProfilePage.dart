@@ -26,8 +26,8 @@ class ProfilePage extends StatelessWidget {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: <Widget>[
-                  Text('Abison Mathew',style: TextStyle(fontStyle: FontStyle.normal,fontWeight: FontWeight.bold),),
-                  Text('@abison',style: TextStyle(fontStyle: FontStyle.normal,fontWeight: FontWeight.bold),),
+                  Text('Juwel Maria',style: TextStyle(fontStyle: FontStyle.normal,fontWeight: FontWeight.bold),),
+                  Text('@juwel',style: TextStyle(fontStyle: FontStyle.normal,fontWeight: FontWeight.bold),),
                   ],
                   ),
                 ],
